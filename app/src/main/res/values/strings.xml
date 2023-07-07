@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="download">Download</string>
+    <string name="download_link_here">Download Link Here</string>
+</resources>
